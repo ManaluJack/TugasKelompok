@@ -1,0 +1,26 @@
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\bin\Debug\Tugas Pertemuan 1-14.exe.config
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\bin\Debug\Tugas Pertemuan 1-14.exe
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\bin\Debug\Tugas Pertemuan 1-14.pdb
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\bin\Debug\Tugas Pertemuan 1-14.xml
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas Pertemuan 1-14.vbprojAssemblyReference.cache
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form1.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Resources.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas Pertemuan 1-14.vbproj.GenerateResource.cache
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas Pertemuan 1-14.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas Pertemuan 1-14.exe
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas Pertemuan 1-14.xml
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas Pertemuan 1-14.pdb
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form__Show_Showdialog.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form_Show.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form_Show_Dialog.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form_Pesan.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form_Konversi.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form_Relasi.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form_Latihan.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form_Percabangan.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form_Percabangan2.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form_Percabangan3.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form_Percabangan4.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form_Entry_Data.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form_Nested_If.resources
+C:\Users\User\Documents\Kuliah\Pemrograman Visual\Tugas Pertemuan 1-14\Tugas Pertemuan 1-14\obj\Debug\Tugas_Pertemuan_1_14.Form_Practice.resources
